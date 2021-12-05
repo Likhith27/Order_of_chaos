@@ -1,2 +1,2 @@
 # Order_of_chaos
-Worst game ever made!
+Chaos is order
